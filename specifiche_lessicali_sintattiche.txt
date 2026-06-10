@@ -1,0 +1,52 @@
+SPECIFICHE LESSICALI LINGUAGGIO MyIdioma
+
+VARIABLE "variable" prima di ogni variabile
+IDENTIFICADOR espressione identificativa
+FUNCION "funcion" prima di ogni funzione
+FINALFUNCION "finalfuncion"
+
+PUNTOYCOMA ";"
+COMA ","
+ASSIGNAR "="
+INCREMENTO "+="
+DECREMENTO "-="
+MAS "+"
+MENOS "-"
+MULTIPLICACION "*"
+DIVISION "/"
+IPAR "("
+BPAR ")"
+MAYORQUE ">"
+MENORQUE "<"
+MAYORIGUAL ">="
+MENORIGUAL "<="
+IGUALIGUAL "=="
+PESTANA "\t" tab
+ESPACIOBLANCO " " spazio bianco
+NUEVALINEA "\n" newline
+IDELIMITADOR " " " delimitatore per inizio stringa
+BDELIMITADOR " " " delimitatore per fine stringa
+COMMENTARIO ">>" inizio commento
+FINALCOMMENTARIO "<<" fine commento
+
+ENTERO espressione per numero intero
+CADENA espressine per stringa
+FLOTAR espressione per un float
+BOOLEANO espressione per un booleano
+VERDADERA "verdadera"
+FALSA "falsa"
+
+NO "no" negazione logica
+DEVOLVER "devolver" return di una funzione
+Y "y" and logico 
+O "o" or logico
+SI "si" if 
+FINAL SI "finalsi" endif
+ENTONCES "entonces" then
+MASSI "massi" else if
+DEMAS "demas" else
+MIENTRAS "mientras" while
+FINALMIENTRAS "finalmientras" end while
+PARA "para" for
+FINALPARA "finalpara" end for
+
